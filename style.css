@@ -52,7 +52,7 @@ section#redesociais{
 }
 section#redesociais > a img:hover{
     border: 1px solid rgba(255, 255, 255, 0.774);
-    transform: translate(-3px, -3px);
+    transform: translate(-10px, -3px);
     transition: transform .5s;
 }
 
