@@ -39,5 +39,12 @@ section#telefone{
 }
 section#redesociais{
 
-    background: ;
+    
+}
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 23px;
+    width: 269px;
+    height: 471px;
 }
